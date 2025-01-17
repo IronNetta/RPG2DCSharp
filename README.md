@@ -1,6 +1,6 @@
 # RPG 2D en Pixel Art avec Unity
 
-Bienvenue dans le projet **RPG2DCSharp** ! Ce projet a pour objectif de vous apprendre à développer votre propre RPG 2D avec Unity.
+Bienvenue dans le projet **RPG2DCSharp** ! Ce projet a pour objectif d'apprendre à développer un RPG 2D avec Unity.
 
 ---
 
