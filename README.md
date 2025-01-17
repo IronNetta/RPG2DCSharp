@@ -2,6 +2,8 @@
 
 Bienvenue dans le projet **RPG2DCSharp** ! Ce projet a pour objectif d'apprendre à développer un RPG 2D avec Unity.
 
+<img src="IDE.jpg"/>
+
 ---
 
 ## Objectifs de ce projet
